@@ -32,8 +32,13 @@ Created a Local Store E-commerce Platform allowing users to browse products, add
 
 ### Task 4: Real-Time Chat Application
 
-Develop a real-time chat application using WebSocket technology to enable instant messaging between users. Users should be able to create accounts, join chat rooms or initiate private conversations, and exchange text messages in real-time.
+Develop a real-time chat application using WebSocket technology to enable instant messaging between users. Users should be able to create accounts, join chat rooms or 
+initiate private conversations, and exchange text messages in real-time.
 
+### Task 5: Social Media Platform
+
+Build a social media application where users can create profiles,share posts, like, and comment on others' posts. Develop an intuitive user interface with features like
+image/video uploads, post tagging to enhance user engagement and interaction.
 
 
 ## Tasks link
@@ -44,3 +49,4 @@ Develop a real-time chat application using WebSocket technology to enable instan
 | Task 2      | Employee Management System                | [Live Website](https://prodigy-internship-fsii.vercel.app)|
 | Task 3      | Local Store E-commerce Platform           | [Live Website](https://prodigy-internship-iii.vercel.app)|
 | Task 4      | Real-Time Chat Application                | [Live Website](https://sweet-bombolone-176d6a.netlify.app/)|
+| Task 5      | Social Media Platform                     | [Live Website](https://links.mayuresh.me/minglr)|
