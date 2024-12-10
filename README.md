@@ -30,6 +30,10 @@ Developed an Employee Management System with CRUD (Create, Read, Update, Delete)
 
 Created a Local Store E-commerce Platform allowing users to browse products, add items to cart, and checkout. Integrated with MongoDB for storing product information.
 
+### Task 4: Real-Time Chat Application
+
+Develop a real-time chat application using WebSocket technology to enable instant messaging between users. Users should be able to create accounts, join chat rooms or initiate private conversations, and exchange text messages in real-time.
+
 
 
 ## Tasks link
@@ -39,3 +43,4 @@ Created a Local Store E-commerce Platform allowing users to browse products, add
 | Task 1      | Secure User Authentication                | [Live Website](https://prodigy-internship-sigma.vercel.app)|
 | Task 2      | Employee Management System                | [Live Website](https://prodigy-internship-fsii.vercel.app)|
 | Task 3      | Local Store E-commerce Platform           | [Live Website](https://prodigy-internship-iii.vercel.app)|
+| Task 4      | Real-Time Chat Application                | [Live Website](https://sweet-bombolone-176d6a.netlify.app/)|
